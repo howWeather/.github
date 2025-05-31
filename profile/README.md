@@ -1,6 +1,6 @@
 # 📜 Project Overview
-> 날씨어때
-> 
+> ## 날씨어때 : 체감 온도 학습 기반 개인화 의상 추천 서비스
+![표지](https://github.com/user-attachments/assets/62646706-b211-457c-aa22-c3d1c183d7cb)
 
 
 ### ⏳ Project Schedule
